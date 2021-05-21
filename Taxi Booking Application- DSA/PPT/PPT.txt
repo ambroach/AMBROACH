@@ -1,9 +1,1 @@
-1. Overview
-2. Problem Statement
-3. Solution to the problem- Advantage /Disadvantage 
-4. Overview-Diagram
-5. Literature Survey/ paper inspired/recent updation
-6. Technical background 
-7. Best/Worst Algorithm used - table format
-8. Conclusion
-9. Links - Google drive - github url - mail id
+
