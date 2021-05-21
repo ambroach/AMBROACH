@@ -1,1 +1,0 @@
-This application is a basic structure of the backbone of the car booking system. It uses design patterns to implement the code giving you a inside-out look to the workng of the application without any frontend filters and backend storage. 
